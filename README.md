@@ -3,8 +3,8 @@
 
 # Table of contents
 
-*<b>🎯What is Provida Pro ?*
-*🎯Use cases for this template*
+<b>*🎯What is Provida Pro ?*<b>
+<b>*🎯Use cases for this template*<b>
 *🎯Key features of Provida Pro*
 *🎯Technologies used*
 *🎯How to Start Provida Pro ?*
