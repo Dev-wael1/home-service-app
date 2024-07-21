@@ -3,14 +3,14 @@
 
 # Table of contents
 
-*🎯What is Provida Pro ?*
+*<b>🎯What is Provida Pro ?*
 *🎯Use cases for this template*
 *🎯Key features of Provida Pro*
 *🎯Technologies used*
 *🎯How to Start Provida Pro ?*
 *🎯How Provida Pro Project Is Structured?*
 *🎯How to Use Provida Pro?*
-*🎯Support*
+*🎯Support*<b>
 
 # What is Provida Pro ?
 __Provida Pro - Home Service & House Cleaning React Native Expo Ui Kit, a comprehensive and
@@ -133,6 +133,6 @@ UI еlеmеnts to align with your branding and design prеfеrеncеs.
 # Support
 
 _Thank you for purchasing this product! Should you have any questions about it, please don't
-hesitate to reach out to us at lalacorp.contact@gmail.com. For customization or any custom
-web and mobile app development needs, feel free to contact us at hello@lalaweb.dev. We're
+hesitate to reach out to us at mrwael13@outlook.com. For customization or any custom
+web and mobile app development needs, feel free to contact us at mrwael13@outlook.com. We're
 here to assist you!_
