@@ -144,4 +144,4 @@ here to assist you!_
 
 
 <h3 align="left"> Your support motivates me to work :</h3>
-<p><a href="https://www.buymeacoffee.com/:https://www.buymeacoffee.com/wael1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wael1" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/wael1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wael1" /></a></p><br><br>
