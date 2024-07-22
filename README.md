@@ -137,7 +137,7 @@ UI еlеmеnts to align with your branding and design prеfеrеncеs.
 
 # Support
 
-_Thank you for purchasing this product! Should you have any questions about it, please don't
+_Thank you for your use this product! Should you have any questions about it, please don't
 hesitate to reach out to us at mrwael13@outlook.com. For customization or any custom
 web and mobile app development needs, feel free to contact us at mrwael13@outlook.com. We're
 here to assist you!_
